@@ -1,6 +1,6 @@
 How to play this game——
 
-1.Download all the code to the local PC.
+1.Download all the code to the local computer.
 
 2.Unzip the file.
 
