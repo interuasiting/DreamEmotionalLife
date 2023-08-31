@@ -1,6 +1,7 @@
 How to play this game——
 
-Download all the code to the local PC.Unzip the file.
-Cd DreamEmtionalLife and click the DreamEmtionalLife.exe file to run the game(DreamEmtionalLife-main\DreamEmtionalLife\DreamEmtionalLife.exe).Attention:Not DreamEmtionalLife-main\DreamEmtionalLife.exe.
-Currently the game only supports the PC version for Windows.
-All images in the game as well as music and sound resources are from the Internet, and this game is intended for academic use as a master's final project only.
+1.Download all the code to the local PC.
+2.Unzip the file.
+3.Cd DreamEmtionalLife and click the DreamEmtionalLife.exe file to run the game(DreamEmotionalLife-master\DreamEmotionalLife-master\DreamEmotionalLife\DreamEmtionalLife.exe).
+4.If your Apple computer cannot run, please switch to a Windows system computer.
+5.All images in the game as well as music and sound resources are from the Internet, and this game is intended for academic use as a master's final project only.
